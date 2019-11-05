@@ -10,12 +10,8 @@ public class User implements Serializable {
      */
     private Long id;
 
-    /**
-     * 姓名
-     */
     private String name;
 
-    //年龄
     private Integer age;
 
     private String sex;
